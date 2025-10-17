@@ -205,7 +205,7 @@ def main():
             print_banner()
             slow_print(f"{THEMES[user_theme]['info']}Hash_Py is your comfortable yet powerful hashing lab.", 0.03)
             slow_print("Built for coders who love clean design and secure logic.", 0.03)
-            slow_print("Created by Ali — where simplicity meets power ⚡", 0.03)
+            slow_print("Created by a.v in github is alinjfknnn — where simplicity meets power ⚡", 0.03)
             input(f"\n{THEMES[user_theme]['accent']}Press Enter to return...{Style.RESET_ALL}")
 
         elif choice == "6":
